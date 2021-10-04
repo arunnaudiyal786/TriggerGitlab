@@ -31,7 +31,7 @@ jobs:
           # gitlab-ci base url
           host: https://devops.powerstack.com
           # gitlab-ci token
-          token: b33a6048e08e143f40f15082981a07
+          token: 0ca8ef2d5e77cdd03119d2daf66aae
           # gitlab-ci valid refs are only the branches and tags
           ref: master
           # gitlab project id
